@@ -3,9 +3,9 @@
 > Is a simple go project that records bills for some items and save the record to a file.
 
 ## Demo
-Demo |
-:---:|
-[]('./demo/go-bills.gif')
+Demo                         |
+:---------------------------:|
+![](./demo/go-bills.gif)
 
 ## Built With
 
