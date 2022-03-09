@@ -37,5 +37,4 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-- Microverse for the readme template
-- Original design idea by [Gregoire Vella on Behance](https://www.behance.net/gregoirevella)
+- [The Net Ninja](https://www.youtube.com/watch?v=etSN4X_fCnM&list=PL4cUxeGkcC9gC88BEo9czgyS72A3doDeM&index=1&t=32s)
