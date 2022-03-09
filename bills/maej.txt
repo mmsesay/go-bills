@@ -1,0 +1,5 @@
+Bill breakdown: 
+pir:                      ...$3.44 
+cake:                     ...$5.6 
+tip:                      ...$3.9
+total:                    ...$12.94
